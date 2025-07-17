@@ -1,2 +1,2 @@
-# gisml
-GIS Machine Learning Project
+# agri-aug
+Agriculture Augmentation Project
